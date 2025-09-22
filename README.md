@@ -21,5 +21,7 @@ The website has **four pages**:
 - Light blue theme with consistent typography across all pages  
 
 ---
+## Live Website URL: Github Pages
+- https://angie719-web.github.io/week8webassignment/
 
 ## 📂 File Structure
